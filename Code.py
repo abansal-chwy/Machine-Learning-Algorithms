@@ -1,3 +1,6 @@
+#to compare Decision tree , SVM, LDA and Random forest Classifier for a given dataset
+
+
 import numpy as np
 from sklearn import svm
 from sklearn.metrics import f1_score
